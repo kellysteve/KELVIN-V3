@@ -1,4 +1,4 @@
-<h1 align="center">```KELVIN-V3```|<br></h1>
+<h1 align="center">KELVIN-V3<br></h1>
 <p align="center">
 <img src="https://files.catbox.moe/bt9nnl.jpg" height="300" />
 </p>
